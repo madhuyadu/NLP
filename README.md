@@ -1,2 +1,2 @@
-# NLP-basic
-Contains code samples related to NLP basic concepts
+# NLP
+Contains code samples related to all level (Basic- Intermediate - Advanced) NLP concepts
